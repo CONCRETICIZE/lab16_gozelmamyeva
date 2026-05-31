@@ -1,0 +1,5 @@
+Команды Git, использованные в работе:
+- git clone
+- git add
+- git commit
+- git push
